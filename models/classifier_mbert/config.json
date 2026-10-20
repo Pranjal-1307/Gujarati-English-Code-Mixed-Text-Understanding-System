@@ -1,0 +1,12 @@
+{
+  "_name_or_path": "bert-base-multilingual-cased",
+  "architectures": ["BertForSequenceClassification"],
+  "model_type": "bert",
+  "num_labels": 7,
+  "labels": {
+    "sentiment": ["Positive", "Negative", "Neutral"],
+    "intent": ["Greeting", "Inquiry", "Feedback", "General"]
+  },
+  "status": "configuration-placeholder",
+  "note": "Fine-tune on a labeled Gujarati-English code-mixed corpus before production deployment."
+}

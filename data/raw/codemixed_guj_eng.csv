@@ -1,0 +1,23 @@
+id,text,sentiment,intent
+1,"Kem cho? Hope tamaro day saras jai!",Positive,Greeting
+2,"મજામાં છું, thanks for asking bhai",Positive,Greeting
+3,"Website nu checkout page load nathi thatu",Negative,Feedback
+4,"Can you please tell me office kyare open che?",Neutral,Inquiry
+5,"તમારી service બહુ સરસ હતી, thank you",Positive,Feedback
+6,"Order haju sudhi deliver nathi thayo, very disappointed",Negative,Feedback
+7,"Hi ben, aaje coffee mate free cho?",Neutral,Greeting
+8,"આ app ma Gujarati keyboard kem add karu?",Neutral,Inquiry
+9,"Gr8 work team, aa update ekdum mast che!",Positive,Feedback
+10,"મને aa product ni quality bilkul pasand nathi",Negative,Feedback
+11,"Bhai, train station sudhi auto ketla ma malse?",Neutral,Inquiry
+12,"The new library aaje 6 pm sudhi open che",Neutral,General
+13,"આજે weather saras che, let's go for a walk",Positive,General
+14,"Plz refund process fast karo, it's been 10 days",Negative,Feedback
+15,"નમસ્તે! Tame kem cho?",Positive,Greeting
+16,"Meeting nu location mokaljo when you get a chance",Neutral,General
+17,"Maro internet connection slow che since morning",Negative,Feedback
+18,"શું આ course online available che?",Neutral,Inquiry
+19,"Hu kal Ahmedabad javano chu, any food recommendations?",Neutral,Inquiry
+20,"તમારો response time excellent che, thanks!",Positive,Feedback
+21,"Saras initiative, students ne ghano faydo thase",Positive,Feedback
+22,"Payment successful batave che but ticket email nathi aavyo",Negative,Feedback
